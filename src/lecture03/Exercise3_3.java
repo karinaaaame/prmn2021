@@ -5,8 +5,9 @@ import java.util.Scanner;
 public class Exercise3_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String a[] = new String[2];
-        int S,A[]= new int[2];
+        String[] a = new String[2];
+        int S;
+        int[] A = new int[2];
 
         for(int i=0;i<2;i++) {
             System.out.println(i+1 + "番目の数字は");
