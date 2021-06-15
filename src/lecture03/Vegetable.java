@@ -1,4 +1,4 @@
-package lecuture03;
+package lecture03;
 
 class Vegetable {
 
