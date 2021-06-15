@@ -7,6 +7,6 @@ public class Exercise04_2 {
         atm.registerAccount("青田","123");
         atm.deposit("123",1000);
         atm.withdraw("123",2000);
-        atm.deposit("123",500);
+        atm.withdraw("123",500);
     }
 }
